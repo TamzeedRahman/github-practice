@@ -1,0 +1,1 @@
+GitHub keeps meticulous track of all the changes we made to a project
